@@ -1,7 +1,6 @@
 # Resilience
 ### Privacy-Preserving Mental Health Monitoring via Homomorphic Encryption and Threshold Key Management
 
-> **Course:** Cryptography and Network Security (BCSE309L)  
 > **Institution:** Vellore Institute of Technology, Chennai — SCOPE School, Dept. of CSE (AI & Robotics)  
 > **Authors:** Akileshguhan A (23BRS1070) · Karthik J (23BRS1191)
 
@@ -194,6 +193,3 @@ python client/client.py
 
 ---
 
-## License
-
-© 2026 Akileshguhan A and Karthik J
