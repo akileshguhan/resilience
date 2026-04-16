@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+venv/
+env/
+
+# Client state — contains private key material
+client/state.json
+
+# Audit log — generated at runtime
+authority/audit_log.json
+
+# Model weights — large binary files
+# Remove these lines if you want to include them
+# models/coef.npy
+# models/intercept.npy
+
+# HuggingFace cache
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
